@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b4dfcfe5219ff7b449422810f4403503
+timeCreated: 1499371638
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brother Deluxe 1350 Font
+  fontNames:
+  - Brother Deluxe 1350 Font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
